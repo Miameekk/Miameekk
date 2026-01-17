@@ -22,7 +22,7 @@ Tworzę czyste i nowoczesne UI/UX, pasjonuję się frontendem i animacjami.
 ---
 
 ## 📈 GitHub Stats
-![Miameekk's GitHub stats](https://github-readme-stats.vercel.app/api?username=miameekk&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miameekk&theme=tokyonight)
 
 ---
 
