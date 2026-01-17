@@ -22,7 +22,7 @@ Tworzę czyste i nowoczesne UI/UX, pasjonuję się frontendem i animacjami.
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miameekk&theme=tokyonight)
+![Top Languages](https://img.shields.io/github/languages/top/miameekk?color=8b5cf6&style=for-the-badge)
 
 ---
 
