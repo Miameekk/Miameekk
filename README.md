@@ -14,7 +14,7 @@ Tworzę czyste i nowoczesne UI/UX, pasjonuję się frontendem i animacjami.
 ---
 
 ## 🛠 Projects
-- [Portfolio](miamek.netlify.app) - Moje osobiste portfolio
+- [https://miamek.vercel.app/) - Moje osobiste portfolio
 - [Pierwsza stronka](https://github.com/miameekk/portfolio/) - Pierwsze portfolio  
 - [Kalkualtor](https://github.com/miameekk/Projekt-kalkulator) - Projekt kalkulatora
 *(więcej projektów w moim GitHub)*
@@ -28,4 +28,4 @@ Tworzę czyste i nowoczesne UI/UX, pasjonuję się frontendem i animacjami.
 
 ## 💬 Kontakt
 📧 damianbukowiec40@gmail.com  
-🌐 [Portfolio](miamek.netlify.app)
+🌐 [Portfolio](https://miamek.vercel.app/)
