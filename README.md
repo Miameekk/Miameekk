@@ -28,4 +28,4 @@ Tworzę czyste i nowoczesne UI/UX, pasjonuję się frontendem i animacjami.
 
 ## 💬 Kontakt
 📧 damianbukowiec40@gmail.com  
-🌐 Portfolio: https://miamek.vercel.app
+🌐 Portfolio: https://miiamek.pl
