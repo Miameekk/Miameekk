@@ -14,9 +14,7 @@ Tworzę czyste i nowoczesne UI/UX, pasjonuję się frontendem i animacjami.
 ---
 
 ## 🛠 Projects
-- [Portfolio](https://miamek.vercel.app/) - Moje osobiste portfolio
-- [Pierwsza stronka](https://github.com/miameekk/portfolio/) - Pierwsze portfolio  
-- [Kalkualtor](https://github.com/miameekk/Projekt-kalkulator) - Projekt kalkulatora
+- SOON
 *(więcej projektów w moim GitHub)*
 
 ---
